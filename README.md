@@ -1,16 +1,11 @@
-# currency_converter
+<h1 align="center">Currency Converter developed in flutter</h1>
 
-A new Flutter project.
+This project was made during the flutter Ioasys bootcamp. The objective of this application is to use the concepts of clean architecture, dependency injection and unit tests. The main functionility of the app is to convert currencies, the data for conversion is get from [HG Finance API](https://hgbrasil.com/status/finance)
 
-## Getting Started
+## ✔️ Used Packages
 
-This project is a starting point for a Flutter application.
+- [``Flutter Modular``](https://pub.dev/packages/flutter_modular)
+- [``Dio``](https://pub.dev/packages/dio)
+- [```Mockito``](https://pub.dev/packages/mockito)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
