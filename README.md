@@ -9,3 +9,13 @@ This project was made during the flutter Ioasys bootcamp. The objective of this 
 - [``Mockito``](https://pub.dev/packages/mockito)
 
 ## 📱 Screens
+
+## Converter Screen
+<div align="center">
+<img src="https://user-images.githubusercontent.com/63858217/172867588-69722762-2451-459e-a7a9-c709d3839f2b.jpg" width="200px" />
+</div>
+
+## Splash Screen
+<div align="center">
+<img src="https://user-images.githubusercontent.com/63858217/172867583-0d754fc3-87ed-4c82-9adf-2677abbcef60.jpg" width="200px" />
+</div>
